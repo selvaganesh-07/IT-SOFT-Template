@@ -1,0 +1,52 @@
+@media (min-width:320px) and (max-width:480px)
+{
+	.maindiv
+	{
+		width:100%;
+		border:1px solid red;
+	}
+	.menu
+	{
+		float:none;
+		padding:0px;
+	}
+	.leftside
+	{
+		float:none;
+		padding:0px;
+	}
+	.rightside
+	{
+		float:none;
+	}
+	.content1 
+	{
+		
+		width:0px;
+		margin:0px auto;
+		padding-top:0px;
+	}
+	.hr-line
+	{
+		width:20px;
+		margin:0px auto;
+		margin-top: 0px;
+					
+	}
+	.content2
+	{
+		width:0px;
+		margin:0px auto;
+	}
+	.imageicon
+	{
+		float:none;
+		width:0px;
+		margin:12px 0px;
+	}
+	.imageicon h3
+	{
+		font-size: 13px;
+		padding: 0px 0px;
+	}
+}
